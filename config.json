@@ -1,0 +1,10 @@
+{
+	"token": "token",
+	"servers": [
+		"823324849270423623"	
+	],
+	"roleName": "LEGEND Rgb",
+	"colors": 50,
+	"speed": 60000,
+	"logging": true
+}
